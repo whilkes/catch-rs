@@ -1,0 +1,10 @@
+[package]
+name = "catch_shared"
+version = "0.1.0"
+authors = [
+    "Leonard Dahlmann <leo.dahlmann@gmail.com>"
+]
+
+[dependencies]
+ecs = "0.20.0"
+cereal = "0.2.1"
